@@ -20,13 +20,6 @@ This file contains results from various clusterings (columns) as well as silhoue
 Cluster matchings (how do clusters in clustering A match to clusters in clustering B) are not stored in files but can be queries via the restful API endpoint (see Codebase).
 (add screenshot here)
 
-## References and Tips
-**to be added soon**
-
-Gleicher, M., Albers, D., Walker, R., Jusufi, I., Hansen, C.D. and Roberts, J.C., 2011. Visual comparison for information visualization. Information Visualization, 10(4), pp.289-309.
-![image](https://user-images.githubusercontent.com/31503434/151735372-bacc248f-aab8-40f5-a883-e3af0c4dd288.png)
-
-
 ## Setup
 We setup a small client-server project using FastAPI. Of course, you are free to code in your favourite language and environment.
 However, if you choose to use it follow the following steps:
@@ -51,7 +44,12 @@ However, if you choose to use it follow the following steps:
 * To get a visual overview and try out all available endpoints via GUI, navigate to `http://localhost:8000/docs`
 * To get a documentation of all available endpoints of the APO navigate to `http://localhost:8000/redoc`
 
-
-
 ## Codebase
 **to be added soon**
+
+## References and Tips
+**to be added soon**
+
+Gleicher, M., Albers, D., Walker, R., Jusufi, I., Hansen, C.D. and Roberts, J.C., 2011. Visual comparison for information visualization. Information Visualization, 10(4), pp.289-309.
+![image](https://user-images.githubusercontent.com/31503434/151735372-bacc248f-aab8-40f5-a883-e3af0c4dd288.png)
+
