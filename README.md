@@ -63,4 +63,3 @@ Gleicher, M., Albers, D., Walker, R., Jusufi, I., Hansen, C.D. and Roberts, J.C.
 
 Lekschas, F., Zhou, X., Chen, W., Gehlenborg, N., Bach, B. and Pfister, H., 2020. A generic framework and library for exploration of small multiples through interactive piling. IEEE Transactions on Visualization and Computer Graphics, 27(2), pp.358-368.
 
-Visual piling is a technique for interactive organization, exploration, and comparison of large collections of small multiples. Piling.js is a library for designing interactive piling interfaces. (this library may not scale to the large data sizes, but can be used with sampling, or shows useful concepts).
