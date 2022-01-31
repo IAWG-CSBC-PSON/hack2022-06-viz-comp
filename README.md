@@ -40,8 +40,8 @@ However, if you choose to use it follow the following steps:
 `uvicorn main:app --reload` - Runs the webserver (and updates its codebase on the fly while running when you make changes)
 
 **5. Access the Frontend(s)**
-* Open your favourite browser (Chrome recommended) and navigate to `http://localhost:8000` to access the frontend
-* To get a vosual overview and try out all available endpoints via GUI, navigate to `http://localhost:8000/docs`
+* Open your favourite browser and navigate to `http://localhost:8000` to access the frontend
+* To get a visual overview and try out all available endpoints via GUI, navigate to `http://localhost:8000/docs`
 * To get a documentation of all available endpoints of the APO navigate to `http://localhost:8000/redoc`
 
 
