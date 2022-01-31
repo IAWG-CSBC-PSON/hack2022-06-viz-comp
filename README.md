@@ -44,6 +44,9 @@ However, if you choose to use it follow the following steps:
 * To get a visual overview and try out all available endpoints via GUI, navigate to `http://localhost:8000/docs`
 * To get a documentation of all available endpoints of the APO navigate to `http://localhost:8000/redoc`
 
+![FastAPI GUI to test endpoints](https://user-images.githubusercontent.com/31503434/151735722-6f2de154-6cc0-4c28-a8db-f45ae0106b76.png)
+
+
 ## Codebase
 **to be added soon**
 
