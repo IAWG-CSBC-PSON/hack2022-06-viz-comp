@@ -17,6 +17,8 @@ Cluster matchings (how do clusters in clustering A match to clusters in clusteri
 
 
 ## References and Tips
+**to be added soon**
+
 
 ## Setup
 We setup a small client-server project using FastAPI. To install it 
@@ -42,7 +44,5 @@ We setup a small client-server project using FastAPI. To install it
 
 
 
-
-
-
 ## Codebase
+**to be added soon**
