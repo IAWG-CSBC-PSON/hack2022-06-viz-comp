@@ -21,23 +21,25 @@ Cluster matchings (how do clusters in clustering A match to clusters in clusteri
 
 
 ## Setup
-We setup a small client-server project using FastAPI. To install it 
-**check out the github code**:
+We setup a small client-server project using FastAPI. Of course, you are free to code in your favourite language and environment.
+However, if you choose to use it follow the following steps:
+ 
+**1. check out the github code**:
 `git checkout hack2022-06-viz-comp`
 
-**create environment**:
+**2. create environment**:
 * install [miniconda](https://conda.io/miniconda.html) or [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html). 
 * create env:  `conda env create -f requirements.yml`
 * active: `conda activate clusterComparison`
 
-**start server**
-`uvicorn main:app --reload` - Runs the webserver (and updates its codebase on the fly while running when you make changes)
-
-**Node.js installation and packages**
+**3. Node.js installation and packages**
 * Install [Node.js](https://nodejs.org/en/), then navigate to `/static` and run `npm install` to install all packages listed in package.json.
 * Run `npm run built` to package the Javascript, or run `npm run watch` if you plan on editing dependencies on the fly while running the server
 
-**Access the Frontend(s)**
+**4. start server**
+`uvicorn main:app --reload` - Runs the webserver (and updates its codebase on the fly while running when you make changes)
+
+**5. Access the Frontend(s)**
 * Open your favourite browser (Chrome recommended) and navigate to `http://localhost:8000` to access the frontend
 * To get a vosual overview and try out all available endpoints via GUI, navigate to `http://localhost:8000/docs`
 * To get a documentation of all available endpoints of the APO navigate to `http://localhost:8000/redoc`
