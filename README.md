@@ -23,6 +23,9 @@ Cluster matchings (how do clusters in clustering A match to clusters in clusteri
 ## References and Tips
 **to be added soon**
 
+Gleicher, M., Albers, D., Walker, R., Jusufi, I., Hansen, C.D. and Roberts, J.C., 2011. Visual comparison for information visualization. Information Visualization, 10(4), pp.289-309.
+![image](https://user-images.githubusercontent.com/31503434/151735372-bacc248f-aab8-40f5-a883-e3af0c4dd288.png)
+
 
 ## Setup
 We setup a small client-server project using FastAPI. Of course, you are free to code in your favourite language and environment.
