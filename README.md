@@ -54,6 +54,13 @@ However, if you choose to use our codebase, please follow the following steps:
 ## References and Tips
 **to be added soon**
 
+#### Encoding Considerations for Visualizing Clustering Data
+
+
+#### Encoding Considerations for Visual Comparison:
 Gleicher, M., Albers, D., Walker, R., Jusufi, I., Hansen, C.D. and Roberts, J.C., 2011. Visual comparison for information visualization. Information Visualization, 10(4), pp.289-309.
 ![image](https://user-images.githubusercontent.com/31503434/151735372-bacc248f-aab8-40f5-a883-e3af0c4dd288.png)
 
+Lekschas, F., Zhou, X., Chen, W., Gehlenborg, N., Bach, B. and Pfister, H., 2020. A generic framework and library for exploration of small multiples through interactive piling. IEEE Transactions on Visualization and Computer Graphics, 27(2), pp.358-368.
+
+Visual piling is a technique for interactive organization, exploration, and comparison of large collections of small multiples. Piling.js is a library for designing interactive piling interfaces. (this library may not scale to the large data sizes, but can be used with sampling, or shows useful concepts).
