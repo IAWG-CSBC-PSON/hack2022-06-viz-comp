@@ -1,5 +1,6 @@
 # hack2022-06-viz-comp
 Challenge 6: Visual Comparison of Single-Cell Clustering Results
+(add teaser figure here)
 
 ## Challenge
 Clustering cells based on common marker expression levels is a crucial step to identify cell types, especially when no ground-truth information is available. However, clustering results highly depend on the applied aggregation strategy and on various preprocessing such as transformations and normalization as well as input parameters. Without ground-truth information, the result is hard to judge based on statistical summary measures only. Integrating biomedical experts for quality control and comparison of results can thus be helpful to verify outcomes and make decisions on which algorithm and settings perform the best. Challenge participants will design and implement an interactive visual interface to visually compare clustering results, by making use of visual comparison techniques such as juxtaposition with small multiples, explicit encoding in order to show average outcomes, similarities and differences, and a range of statistical measures to visually communicate computed clustering qualities.
@@ -8,13 +9,15 @@ Clustering cells based on common marker expression levels is a crucial step to i
 
 #### raw_data.csv
 This file contains single cell from the sardana_97 section. Each row (overall 962343) represents a cell. Columns (features) are normalized (0,1) and used as input for the clustering.
+(add screenshot here)
 
 #### clustering.csv
 This file contains results from various clusterings (columns) as well as silhouette coefficients for each cell. The silhouette coefficient describes a relation between the distance to other cells in the cluster versus the distance to cells in the next neighboring cluster. The silhouette coefficient ranges from [-1,1], where -1 represents a bad clustering for the point while 1 indicates a good fit.
+(add screenshot here)
 
 #### cluster matchings
 Cluster matchings (how do clusters in clustering A match to clusters in clustering B) are not stored in files but can be queries via the restful API endpoint (see Codebase).
-
+(add screenshot here)
 
 ## References and Tips
 **to be added soon**
