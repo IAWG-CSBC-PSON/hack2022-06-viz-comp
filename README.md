@@ -22,7 +22,7 @@ Cluster matchings (how do clusters in clustering A match to clusters in clusteri
 
 ## Setup
 We setup a small client-server project using [FastAPI](https://fastapi.tiangolo.com/). Of course, you are free to code in your favourite language and environment.
-However, if you choose to use it follow the following steps:
+However, if you choose to use our codebase, please follow the following steps:
  
 **1. check out the github code**:
 `git checkout hack2022-06-viz-comp`
@@ -44,8 +44,8 @@ However, if you choose to use it follow the following steps:
 * To get a visual overview and try out all available endpoints via GUI, navigate to `http://localhost:8000/docs`
 * To get a documentation of all available endpoints of the APO navigate to `http://localhost:8000/redoc`
 
-![FastAPI GUI to test endpoints](https://user-images.githubusercontent.com/31503434/151735722-6f2de154-6cc0-4c28-a8db-f45ae0106b76.png)
-
+*The FastAPI GUI to test endpoints:*
+<img width="600" alt="FastAPI GUI to test endpoints" src="https://user-images.githubusercontent.com/31503434/151735722-6f2de154-6cc0-4c28-a8db-f45ae0106b76.png">
 
 ## Codebase
 **to be added soon**
