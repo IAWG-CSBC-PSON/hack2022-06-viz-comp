@@ -45,6 +45,7 @@ However, if you choose to use our codebase, please follow the following steps:
 * To get a documentation of all available endpoints of the APO navigate to `http://localhost:8000/redoc`
 
 *The FastAPI GUI to test endpoints:*
+
 <img width="600" alt="FastAPI GUI to test endpoints" src="https://user-images.githubusercontent.com/31503434/151735722-6f2de154-6cc0-4c28-a8db-f45ae0106b76.png">
 
 ## Codebase
