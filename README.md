@@ -21,7 +21,7 @@ Cluster matchings (how do clusters in clustering A match to clusters in clusteri
 (add screenshot here)
 
 ## Setup
-We setup a small client-server project using FastAPI. Of course, you are free to code in your favourite language and environment.
+We setup a small client-server project using [FastAPI](https://fastapi.tiangolo.com/). Of course, you are free to code in your favourite language and environment.
 However, if you choose to use it follow the following steps:
  
 **1. check out the github code**:
