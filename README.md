@@ -13,8 +13,7 @@ The data is available via [Synapse](https://www.synapse.org/#!Synapse:syn2684866
 
 `silhouette_coefficients.csv` This file contains [silhouette coefficients](https://en.wikipedia.org/wiki/Silhouette_(clustering)) for every point (row) and every cloustering (column).
 
-#### cluster matchings
-Cluster matchings (how do clusters in clustering A match to clusters in clustering B) are not stored in files but can be queries via the restful API endpoint (see Codebase).
+`cluster matchings` Cluster matchings (how do clusters in clustering A match to clusters in clustering B) are not stored in files but can be queries via the restful API endpoint (see Codebase) or by executing the python script manually.
 (add screenshot here)
 
 ## Setup
