@@ -18,9 +18,9 @@ The data is available via [Synapse](https://www.synapse.org/#!Synapse:syn2684866
 
 `raw_data.csv` This file contains single cell from the sardana_97 section. Each row (overall 962343) represents a cell. Columns (features) are normalized (0,1) and used as input for the clustering.
 
-`clustering.csv` This file contains results from various clusterings (columns) as well as silhouette coefficients for each cell. The silhouette coefficient describes a relation between the distance to other cells in the cluster versus the distance to cells in the next neighboring cluster. The silhouette coefficient ranges from [-1,1], where -1 represents a bad clustering for the point while 1 indicates a good fit.
+`clustering.csv` This file contains results from various clusterings (columns) for each cell (row). The data also contains 2D and 3D UMAP projection coordinates.
 
-`silhouette_coefficients.csv` This file contains [silhouette coefficients](https://en.wikipedia.org/wiki/Silhouette_(clustering)) for every point (row) and every cloustering (column).
+`silhouette_coefficients.csv` This file contains [silhouette coefficients](https://en.wikipedia.org/wiki/Silhouette_(clustering)) for every point (row) and every cloustering (column). The silhouette coefficient describes a relation between the distance to other cells in the cluster versus the distance to cells in the next neighboring cluster. The silhouette coefficient ranges from [-1,1], where -1 represents a bad clustering for the point while 1 indicates a good fit.
 
 `cluster matchings` Cluster matchings (how do clusters in clustering A match to clusters in clustering B) are not stored in files but can be queries via the restful API endpoint (see Codebase) or by executing the python script manually.
 
