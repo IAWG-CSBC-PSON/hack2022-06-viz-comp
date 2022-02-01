@@ -6,7 +6,7 @@ Clustering cells based on common marker expression levels is a crucial step to i
 
 Visualization solutions should answer the following questions:
 
-- *Overview:* What are summarizing statistics (method, num clusters, clustering quality, marker profiles per cluster) of the various clusterings and how can they be displayed and sorted to allow a quick comparative overview?
+- *Overview:* What are summarizing statistics (method, num clusters, clustering quality, average marker intensities per cluster) of the various clusterings and how can they be displayed, arranged, and sorted to allow a quick comparative overview?
 
 - *Detail:* How are individual markers distributed per cluster, how well are clusters separated/quality of the clustering.
 
