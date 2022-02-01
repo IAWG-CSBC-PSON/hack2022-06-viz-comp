@@ -92,7 +92,7 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 ### Visualization and Computation Libraries
 
-#### Python
+#### If you choose to develp your GUI with python
 
 - Dash (plotly) Dash is a Python framework for building ML & data science web apps and dashboards. [to website](https://github.com/plotly/dash) [tutorial](https://www.youtube.com/watch?v=hSPmj7mK6ng)
 
@@ -105,7 +105,7 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 - 3D scatterplot with Plotly Express [to website](https://plotly.com/python/3d-scatter-plots/)
 
-#### javascript
+#### If you choose to develp your GUI with javascript
 
 - d3j.s A javascript library for creating interacive visualizations. [to website](https://d3js.org/)
 
@@ -114,3 +114,5 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 - regl scatterplot. A fast and scalable webgl scatterplot, including zooming, panning, and lasso-selection. [to website](https://github.com/flekschas/regl-scatterplot)
 
 - 3D scatterplot. A plotly-based 3D scatterplot (javascript). [to website](https://plotly.com/javascript/3d-scatter-plots/)
+
+**..and many more
