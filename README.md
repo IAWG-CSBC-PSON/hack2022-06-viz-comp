@@ -14,7 +14,7 @@ This file contains single cell from the sardana_97 section. Each row (overall 96
 #### clustering.csv
 This file contains results from various clusterings (columns) as well as silhouette coefficients for each cell. The silhouette coefficient describes a relation between the distance to other cells in the cluster versus the distance to cells in the next neighboring cluster. The silhouette coefficient ranges from [-1,1], where -1 represents a bad clustering for the point while 1 indicates a good fit.
 
-#### silhouette_coefficients
+#### silhouette_coefficients.csv
 This file contains [silhouette coefficients](https://en.wikipedia.org/wiki/Silhouette_(clustering)) for every point (row) and every cloustering (column).
 
 #### cluster matchings
