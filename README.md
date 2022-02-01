@@ -36,7 +36,7 @@ However, if you choose to use our codebase, please follow the following steps:
 * create env:  `conda env create -f requirements.yml`
 * active: `conda activate clusterComparison`
 
-**3. Node.js installation and packages**
+**3. Node.js installation and webpack packaging**
 * Install [Node.js](https://nodejs.org/en/), then navigate to `/static` and run `npm install` to install all packages listed in package.json.
 * Run `npm run built` to package the Javascript, or run `npm run watch` if you plan on editing dependencies on the fly while running the server
 
