@@ -78,11 +78,14 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 - Selecting the number of clusters with silhouette analysis on KMeans clustering
 [to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
-- Heatmaps with Python Seaborn 
-[to website](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 
-- Clustering and Quality Meassures with scikit-learn
-[to website](https://scikit-learn.org/stable/modules/clustering.html)
+#### Visualization and Computation Libraries
 
+- Heatmaps with Python Seaborn [to website](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 
+- Clustering and Quality Meassures with scikit-learn [to website](https://scikit-learn.org/stable/modules/clustering.html)
+
+- d3j.s A javascript library for creating interacive visualizations. [to website](https://d3js.org/)
+
+- regl scatterplot. A fast and scalable webgl scatterplot, including zooming, panning, and lasso-selection. [to website](https://github.com/flekschas/regl-scatterplot)
 
