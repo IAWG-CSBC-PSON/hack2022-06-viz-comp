@@ -10,7 +10,7 @@ Visualization/visual interface solutions should answer the following questions:
 
 - *Detail:* How are individual markers distributed per cluster, how well are clusters separated/quality of the clustering.
 
-- *Mappings:* How does a clustering compare to another or many other clusterings? What are similarities and differences? Can they be visually encoded?
+- *Mappings:* How does a clustering compare to another or many other clusterings? What are similarities and differences and can these be explicitly visually encoded?
 
 >> (a) There is no need to answer all questions and integrate all visualization types (2D/3D scatterplots, matrix/heatmap, parallel coordinates, boxplots, ..). Rather focus on a sub-problem in depth that attracts your interest. (b) In case the data is too large for your preferred visualization libraries and code, you can sample.
 
