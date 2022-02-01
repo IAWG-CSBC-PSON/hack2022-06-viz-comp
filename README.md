@@ -69,6 +69,7 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 <img width="500" alt="Piling.js" src="https://user-images.githubusercontent.com/31503434/151975324-a8349527-1a58-4aa0-bed9-355789ba713a.png">
 
+- Sadana, R., Major, T., Dove, A. and Stasko, J., 2014. Onset: A visualization technique for large-scale binary set data. IEEE transactions on visualization and computer graphics, 20(12), pp.1993-2002. >> This paper gives ideas of how to compare set data using matrix visualziations and explicit encodings (boolean AND/OR). [paper](https://doi.org/10.1109/TVCG.2014.2346249)
 
 #### Clustering Visualization and Comparison 
 - L'Yi, S., Ko, B., Shin, D., Cho, Y.J., Lee, J., Kim, B. and Seo, J., 2015. XCluSim: a visual analytics tool for interactively comparing multiple clustering results of bioinformatics data. BMC bioinformatics, 16(11), pp.1-15. >> This paper describes a visual analytics system to compare clusterings with various views showing different aspects (summarizing stats, distribution, quality, etc.) of the clusterings. It can serve as inspirations for designing and implementing visualizations in this challenge. [paper](https://link.springer.com/article/10.1186/1471-2105-16-S11-S5)
