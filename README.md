@@ -60,7 +60,7 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 ## References and Tips
 
-#### Categorization and Approaches for Visual Comparison 
+### Categorization and Approaches for Visual Comparison 
 - Gleicher, M., 2017. Considerations for visualizing comparison. IEEE transactions on visualization and computer graphics, 24(1), pp.413-423. >> This paper summarizes considerations and methods for visual comparison and can help as inspiration for the project. [paper](https://graphics.cs.wisc.edu/Papers/2018/Gle18/viscomp.pdf)
 
 <p align="center">
@@ -75,7 +75,7 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 - Sadana, R., Major, T., Dove, A. and Stasko, J., 2014. Onset: A visualization technique for large-scale binary set data. IEEE transactions on visualization and computer graphics, 20(12), pp.1993-2002. >> This paper gives ideas of how to compare set data using matrix visualziations and explicit encodings (boolean AND/OR). [paper](https://doi.org/10.1109/TVCG.2014.2346249)
 
-#### Clustering Visualization and Comparison 
+### Clustering Visualization and Comparison 
 - L'Yi, S., Ko, B., Shin, D., Cho, Y.J., Lee, J., Kim, B. and Seo, J., 2015. XCluSim: a visual analytics tool for interactively comparing multiple clustering results of bioinformatics data. BMC bioinformatics, 16(11), pp.1-15. >> This paper describes a visual analytics system to compare clusterings with various views showing different aspects (summarizing stats, distribution, quality, etc.) of the clusterings. It can serve as inspirations for designing and implementing visualizations in this challenge. [paper](https://link.springer.com/article/10.1186/1471-2105-16-S11-S5)
 
 <p align="center">
@@ -93,7 +93,7 @@ Wilkinson, L. and Friendly, M., 2009. The history of the cluster heat map. The A
 [to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
 
-#### Visualization and Computation Libraries
+### Visualization and Computation Libraries
 
 - Heatmaps with Python Seaborn [to website](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 
