@@ -82,15 +82,11 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 <img width="500" align="middle" alt="Encodings to visually compare clusterings" src="https://user-images.githubusercontent.com/31503434/151973708-d722f2b5-86fd-4be3-a65e-95ca8838350d.png">
 </p>
 
-Wilkinson, L. and Friendly, M., 2009. The history of the cluster heat map. The American Statistician, 63(2), pp.179-184. [paper](https://doi.org/10.1198/tas.2009.0033)
+- Wilkinson, L. and Friendly, M., 2009. The history of the cluster heat map. The American Statistician, 63(2), pp.179-184. [paper](https://doi.org/10.1198/tas.2009.0033)
 
 <p align="center">
 <img width="800" align="middle" alt="history of the cluster heat map" src="https://user-images.githubusercontent.com/31503434/151993735-22f887d1-1105-44b2-bfd3-361cfdb803fe.png">
 </p>
-
-
-- Selecting the number of clusters with silhouette analysis on KMeans clustering
-[to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
 
 ### Visualization and Computation Libraries
@@ -98,6 +94,10 @@ Wilkinson, L. and Friendly, M., 2009. The history of the cluster heat map. The A
 - Heatmaps with Python Seaborn [to website](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 
 - Clustering and Quality Meassures with scikit-learn [to website](https://scikit-learn.org/stable/modules/clustering.html)
+
+- Selecting the number of clusters with silhouette analysis on KMeans clustering
+[to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
+
 
 - d3j.s A javascript library for creating interacive visualizations. [to website](https://d3js.org/)
 
