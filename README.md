@@ -69,15 +69,18 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 - Lekschas, F., Zhou, X., Chen, W., Gehlenborg, N., Bach, B. and Pfister, H., 2020. A generic framework and library for exploration of small multiples through interactive piling. IEEE Transactions on Visualization and Computer Graphics, 27(2), pp.358-368. >> This paper describes a grid-based small-multiple approach for an overview over mltiple datasets and ways to aggregate (pile) and compare them. [paper](https://doi.org/10.1109/TVCG.2020.3028948) [piling library](https://piling.js.org/)
 
+<p align="center">
 <img width="500" align="middle" alt="Piling.js" src="https://user-images.githubusercontent.com/31503434/151975324-a8349527-1a58-4aa0-bed9-355789ba713a.png">
+</p>
 
 - Sadana, R., Major, T., Dove, A. and Stasko, J., 2014. Onset: A visualization technique for large-scale binary set data. IEEE transactions on visualization and computer graphics, 20(12), pp.1993-2002. >> This paper gives ideas of how to compare set data using matrix visualziations and explicit encodings (boolean AND/OR). [paper](https://doi.org/10.1109/TVCG.2014.2346249)
 
 #### Clustering Visualization and Comparison 
 - L'Yi, S., Ko, B., Shin, D., Cho, Y.J., Lee, J., Kim, B. and Seo, J., 2015. XCluSim: a visual analytics tool for interactively comparing multiple clustering results of bioinformatics data. BMC bioinformatics, 16(11), pp.1-15. >> This paper describes a visual analytics system to compare clusterings with various views showing different aspects (summarizing stats, distribution, quality, etc.) of the clusterings. It can serve as inspirations for designing and implementing visualizations in this challenge. [paper](https://link.springer.com/article/10.1186/1471-2105-16-S11-S5)
 
-<img width="600" align="middle" alt="Encodings to visually compare clusterings" src="https://user-images.githubusercontent.com/31503434/151973708-d722f2b5-86fd-4be3-a65e-95ca8838350d.png">
-
+<p align="center">
+<img width="500" align="middle" alt="Encodings to visually compare clusterings" src="https://user-images.githubusercontent.com/31503434/151973708-d722f2b5-86fd-4be3-a65e-95ca8838350d.png">
+</p>
 - Selecting the number of clusters with silhouette analysis on KMeans clustering
 [to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
