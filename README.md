@@ -45,7 +45,9 @@ However, if you choose to use our codebase, please follow the following steps:
 <img width="600" alt="FastAPI GUI to test endpoints" src="https://user-images.githubusercontent.com/31503434/151735722-6f2de154-6cc0-4c28-a8db-f45ae0106b76.png">
 
 ## Codebase
-**to be added soon**
+The FastPI endpoints, such as loading data to the client, are located in main.py.
+The entry point for the frontend is index.html + index.js under static/src.
+As a starting point, the project includes a scalable webgl scatterplot. How to code additional functionality for this scatterplot is described in the respective github project [regl-scatterplot](https://github.com/flekschas/regl-scatterplot).
 
 ## References and Tips
 **to be added soon**
