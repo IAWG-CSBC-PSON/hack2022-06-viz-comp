@@ -4,7 +4,7 @@ Challenge 6: Visual Comparison of Single-Cell Clustering Results
 ## Challenge Description
 Clustering cells based on common marker expression levels is a crucial step to identify cell types, especially when no ground-truth information is available. However, clustering results highly depend on the applied aggregation strategy and on various preprocessing such as transformations and normalization as well as input parameters. Without ground-truth information, the result is hard to judge based on statistical summary measures only. Integrating biomedical experts for quality control and comparison of results can thus be helpful to verify outcomes and make decisions on which algorithm and settings perform the best. Challenge participants will design and implement an interactive visual interface to visualize and compare clustering results, by making use of visual comparison techniques such as juxtaposition with small multiples, explicit encoding in order to show average outcomes, similarities and differences, and a range of statistical measures to visually communicate computed clustering qualities.
 
-Visualization solutions should answer the following questions:
+Visualization/visual interface solutions should answer the following questions:
 
 - *Overview:* What are summarizing statistics (method, num clusters, clustering quality, average marker intensities per cluster) of the various clusterings and how can they be displayed, arranged, and sorted to allow a quick comparative overview?
 
