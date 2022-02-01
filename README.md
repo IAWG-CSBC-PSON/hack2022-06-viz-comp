@@ -92,6 +92,10 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 ### Visualization and Computation Libraries
 
+#### Python
+
+- Dash (plotly) Dash is a Python framework for building ML & data science web apps and dashboards. [to website](https://github.com/plotly/dash) [tutorial](https://www.youtube.com/watch?v=hSPmj7mK6ng)
+
 - Heatmaps with Python Seaborn [to website](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 
 - Clustering and Quality Meassures with scikit-learn [to website](https://scikit-learn.org/stable/modules/clustering.html)
@@ -99,6 +103,9 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 - Selecting the number of clusters with silhouette analysis on KMeans clustering
 [to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
+- 3D scatterplot with Plotly Express [to website](https://plotly.com/python/3d-scatter-plots/)
+
+#### javascript
 
 - d3j.s A javascript library for creating interacive visualizations. [to website](https://d3js.org/)
 
