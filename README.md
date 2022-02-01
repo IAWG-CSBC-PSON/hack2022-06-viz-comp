@@ -81,6 +81,7 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 <p align="center">
 <img width="500" align="middle" alt="Encodings to visually compare clusterings" src="https://user-images.githubusercontent.com/31503434/151973708-d722f2b5-86fd-4be3-a65e-95ca8838350d.png">
 </p>
+
 - Selecting the number of clusters with silhouette analysis on KMeans clustering
 [to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
