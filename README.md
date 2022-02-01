@@ -50,16 +50,21 @@ The entry point for the frontend is `index.html` + `index.js` under `static/src`
 As a starting point, the project includes a scalable webgl scatterplot. How to code additional functionality for this scatterplot is described in the respective github project [regl-scatterplot](https://github.com/flekschas/regl-scatterplot).
 
 ## References and Tips
-**to be added soon**
 
-Gleicher, M., Albers, D., Walker, R., Jusufi, I., Hansen, C.D. and Roberts, J.C., 2011. **Visual comparison for information visualization**. Information Visualization, 10(4), pp.289-309. >> This paper summarizes considerations and methods for visual comparison and can help as inspiration for the project.
+#### Categorization and Approaches for Visual Comparison 
+Gleicher, M., Albers, D., Walker, R., Jusufi, I., Hansen, C.D. and Roberts, J.C., 2011. Visual comparison for information visualization. Information Visualization, 10(4), pp.289-309. >> This paper summarizes considerations and methods for visual comparison and can help as inspiration for the project.
 
 <img width="600" alt="Visual Comparison" src="https://user-images.githubusercontent.com/31503434/151735372-bacc248f-aab8-40f5-a883-e3af0c4dd288.png">
 
+Lekschas, F., Zhou, X., Chen, W., Gehlenborg, N., Bach, B. and Pfister, H., 2020. **A generic framework and library for exploration of small multiples through interactive piling**. IEEE Transactions on Visualization and Computer Graphics, 27(2), pp.358-368. >> This paper describes a grid-based small-multiple approach for an overview over mltiple datasets and ways to aggregate (pile) and compare them.
+
+#### Clustering Visualization and Comparison 
 L'Yi, S., Ko, B., Shin, D., Cho, Y.J., Lee, J., Kim, B. and Seo, J., 2015. **XCluSim: a visual analytics tool for interactively comparing multiple clustering results of bioinformatics data**. BMC bioinformatics, 16(11), pp.1-15. >> This paper describes a visual analytics system to compare clusterings with various views showing different aspects (summarizing stats, distribution, quality, etc.) of the clusterings. It can serve as inspirations for designing and implementing visualizations in this challenge.
 
 <img width="600" alt="Encodings to visually compare clusterings" src="https://user-images.githubusercontent.com/31503434/151973708-d722f2b5-86fd-4be3-a65e-95ca8838350d.png">
 
+Selecting the number of clusters with silhouette analysis on KMeans clustering
+[to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
-Lekschas, F., Zhou, X., Chen, W., Gehlenborg, N., Bach, B. and Pfister, H., 2020. **A generic framework and library for exploration of small multiples through interactive piling**. IEEE Transactions on Visualization and Computer Graphics, 27(2), pp.358-368. >> This paper describes a grid-based small-multiple approach for an overview over mltiple datasets and ways to aggregate (pile) and compare them.
+
 
