@@ -78,5 +78,11 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 - Selecting the number of clusters with silhouette analysis on KMeans clustering
 [to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
+- Heatmaps with Python Seaborn
+- [to website](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+
+- Clustering and Quality Meassures with scikit-learn
+[to website](https://scikit-learn.org/stable/modules/clustering.html)
+
 
 
