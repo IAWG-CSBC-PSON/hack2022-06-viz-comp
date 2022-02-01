@@ -28,10 +28,10 @@ The data is available via [Synapse](https://www.synapse.org/#!Synapse:syn2684866
 We setup a small client-server project using [FastAPI](https://fastapi.tiangolo.com/). Of course, you are free to code in your favourite language and environment.
 However, if you choose to use our codebase, please follow the following steps:
  
-**1. check out the github code**:
+**1. Check out the github code**:
 `git checkout hack2022-06-viz-comp`
 
-**2. create environment**:
+**2. Create environment**:
 * install [miniconda](https://conda.io/miniconda.html) or [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html). 
 * create env:  `conda env create -f requirements.yml`
 * active: `conda activate clusterComparison`
@@ -40,10 +40,10 @@ However, if you choose to use our codebase, please follow the following steps:
 * Install [Node.js](https://nodejs.org/en/), then navigate to `/static` and run `npm install` to install all packages listed in package.json.
 * Run `npm run built` to package the Javascript, or run `npm run watch` if you plan on editing dependencies on the fly while running the server
 
-**4. start server**
+**4. Start server**
 `uvicorn main:app --reload` - Runs the webserver (and updates its codebase on the fly while running when you make changes)
 
-**5. Access the Frontend(s)**
+**5. Access frontend(s)**
 * Open your favourite browser and navigate to `http://localhost:8000` to access the frontend. You should see a zoomable/pannable scatterplot showing a UMAP projection, colored by hdbscan cluster membership.
 * To get a visual overview and try out all available endpoints via GUI, navigate to `http://localhost:8000/docs`
 * To get a documentation of all available endpoints of the APO navigate to `http://localhost:8000/redoc`
@@ -61,17 +61,17 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 ## References and Tips
 
 #### Categorization and Approaches for Visual Comparison 
-Gleicher, M., Albers, D., Walker, R., Jusufi, I., Hansen, C.D. and Roberts, J.C., 2011. Visual comparison for information visualization. Information Visualization, 10(4), pp.289-309. >> This paper summarizes considerations and methods for visual comparison and can help as inspiration for the project.
+Gleicher, M., 2017. Considerations for visualizing comparison. IEEE transactions on visualization and computer graphics, 24(1), pp.413-423. >> This paper summarizes considerations and methods for visual comparison and can help as inspiration for the project. [paper](https://graphics.cs.wisc.edu/Papers/2018/Gle18/viscomp.pdf)
 
 <img width="600" alt="Visual Comparison" src="https://user-images.githubusercontent.com/31503434/151735372-bacc248f-aab8-40f5-a883-e3af0c4dd288.png">
 
-Lekschas, F., Zhou, X., Chen, W., Gehlenborg, N., Bach, B. and Pfister, H., 2020. **A generic framework and library for exploration of small multiples through interactive piling**. IEEE Transactions on Visualization and Computer Graphics, 27(2), pp.358-368. >> This paper describes a grid-based small-multiple approach for an overview over mltiple datasets and ways to aggregate (pile) and compare them.
+Lekschas, F., Zhou, X., Chen, W., Gehlenborg, N., Bach, B. and Pfister, H., 2020. A generic framework and library for exploration of small multiples through interactive piling. IEEE Transactions on Visualization and Computer Graphics, 27(2), pp.358-368. >> This paper describes a grid-based small-multiple approach for an overview over mltiple datasets and ways to aggregate (pile) and compare them. [paper](https://doi.org/10.1109/TVCG.2020.3028948) piling library](https://piling.js.org/)
 
 <img width="600" alt="Piling.js" src="https://user-images.githubusercontent.com/31503434/151975324-a8349527-1a58-4aa0-bed9-355789ba713a.png">
 
 
 #### Clustering Visualization and Comparison 
-L'Yi, S., Ko, B., Shin, D., Cho, Y.J., Lee, J., Kim, B. and Seo, J., 2015. **XCluSim: a visual analytics tool for interactively comparing multiple clustering results of bioinformatics data**. BMC bioinformatics, 16(11), pp.1-15. >> This paper describes a visual analytics system to compare clusterings with various views showing different aspects (summarizing stats, distribution, quality, etc.) of the clusterings. It can serve as inspirations for designing and implementing visualizations in this challenge.
+L'Yi, S., Ko, B., Shin, D., Cho, Y.J., Lee, J., Kim, B. and Seo, J., 2015. XCluSim: a visual analytics tool for interactively comparing multiple clustering results of bioinformatics data. BMC bioinformatics, 16(11), pp.1-15. >> This paper describes a visual analytics system to compare clusterings with various views showing different aspects (summarizing stats, distribution, quality, etc.) of the clusterings. It can serve as inspirations for designing and implementing visualizations in this challenge. [paper](https://link.springer.com/article/10.1186/1471-2105-16-S11-S5)
 
 <img width="600" alt="Encodings to visually compare clusterings" src="https://user-images.githubusercontent.com/31503434/151973708-d722f2b5-86fd-4be3-a65e-95ca8838350d.png">
 
