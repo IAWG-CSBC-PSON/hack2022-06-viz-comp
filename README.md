@@ -109,6 +109,8 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 - d3j.s A javascript library for creating interacive visualizations. [to website](https://d3js.org/)
 
+- [vega](https://vega.github.io/vega/) and [vegalite](https://vega.github.io/vega-lite/)
+
 - bootstrap. Quickly design/layout and customize responsive websites with Bootstrap [to website](https://getbootstrap.com/)
 
 - regl scatterplot. A fast and scalable webgl scatterplot, including zooming, panning, and lasso-selection. [to website](https://github.com/flekschas/regl-scatterplot)
