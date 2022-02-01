@@ -12,6 +12,7 @@ Visualization/visual interface solutions should answer the following questions:
 
 - *Mappings:* How does a clustering compare to another or many other clusterings? What are similarities and differences? Can they be visually encoded?
 
+>> There is no need to answer all questions and integrate all visualization types (2D/3D scatterplots, matrix/heatmap, parallel coordinates, boxplots, ..). Rather focus on a sub-problem in depth that attracts your interest.
 
 ## Data
 The data is available via [Synapse](https://www.synapse.org/#!Synapse:syn26848666).
