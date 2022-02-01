@@ -85,7 +85,7 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 Wilkinson, L. and Friendly, M., 2009. The history of the cluster heat map. The American Statistician, 63(2), pp.179-184. [paper](https://doi.org/10.1198/tas.2009.0033)
 
 <p align="center">
-<img width="500" align="middle" alt="history of the cluster heat map" src="https://user-images.githubusercontent.com/31503434/151993735-22f887d1-1105-44b2-bfd3-361cfdb803fe.png">
+<img width="800" align="middle" alt="history of the cluster heat map" src="https://user-images.githubusercontent.com/31503434/151993735-22f887d1-1105-44b2-bfd3-361cfdb803fe.png">
 </p>
 
 
