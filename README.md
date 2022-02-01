@@ -82,6 +82,8 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 <img width="500" align="middle" alt="Encodings to visually compare clusterings" src="https://user-images.githubusercontent.com/31503434/151973708-d722f2b5-86fd-4be3-a65e-95ca8838350d.png">
 </p>
 
+Wilkinson, L. and Friendly, M., 2009. The history of the cluster heat map. The American Statistician, 63(2), pp.179-184. [paper](https://doi.org/10.1198/tas.2009.0033)
+
 - Selecting the number of clusters with silhouette analysis on KMeans clustering
 [to website](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
