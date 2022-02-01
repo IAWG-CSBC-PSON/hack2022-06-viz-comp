@@ -91,3 +91,4 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 - regl scatterplot. A fast and scalable webgl scatterplot, including zooming, panning, and lasso-selection. [to website](https://github.com/flekschas/regl-scatterplot)
 
+-3D scatterplot. A plotly-based 3D scatterplot (javascript). [to website](https://plotly.com/javascript/3d-scatter-plots/)
