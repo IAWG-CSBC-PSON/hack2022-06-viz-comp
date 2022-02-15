@@ -117,4 +117,6 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 - 3D scatterplot. A plotly-based 3D scatterplot (javascript). [to website](https://plotly.com/javascript/3d-scatter-plots/)
 
+- 3D scatterplot - Interactive 3D / 2D webgl-accelerated scatter plot point renderer [to website](https://github.com/PAIR-code/scatter-gl)
+
 **..and many more
