@@ -64,6 +64,12 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 ### Categorization and Approaches for Visual Comparison 
 - Gleicher, M., 2017. Considerations for visualizing comparison. IEEE transactions on visualization and computer graphics, 24(1), pp.413-423. >> This paper summarizes considerations and methods for visual comparison and can help as inspiration for the project. [paper](https://graphics.cs.wisc.edu/Papers/2018/Gle18/viscomp.pdf)
 
+# Solution 1
+
+# Solution 2
+
+
+
 <p align="center">
 <img width="700" alt="Visual Comparison" src="https://user-images.githubusercontent.com/31503434/151735372-bacc248f-aab8-40f5-a883-e3af0c4dd288.png">
 </p>
