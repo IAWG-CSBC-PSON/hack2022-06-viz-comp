@@ -125,11 +125,13 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 # Solution 1
 
-Detailed, attractive figures for visual analysis, publications, presentations
+This solution is a Jupyter notebook for comparison of clustering results.
+It outputs detailed, attractive figures for visual analysis, publications, presentations
 
 Summarized cluster quality and visualized marker distributions
 Implemented a silhouette-heatmap for single-cell marker expression ordered by silhouette values
-Shared a Jupyter notebook for comparison of clustering results
+
+
 
 ![image](https://user-images.githubusercontent.com/31503434/154734654-d2c43480-f08a-47e6-b521-2d324adac5db.png)
 
