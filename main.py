@@ -17,7 +17,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 
 
-#data routes
+#data rdoutes
 @app.get("/raw_data")
 async def raw_data():
     return FileResponse('data/raw_data.csv');

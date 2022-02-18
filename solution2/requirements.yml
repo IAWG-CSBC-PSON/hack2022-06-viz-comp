@@ -1,0 +1,13 @@
+name: clusterComparison
+channels:
+  - conda-forge
+dependencies:
+  - FastAPI
+  - jinja2
+  - uvicorn
+  - pandas
+  - orjson
+  - pandas
+  - seaborn
+  - pip:
+      - matplotlib
