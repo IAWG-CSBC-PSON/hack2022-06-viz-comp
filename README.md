@@ -125,4 +125,19 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 # Solution 1
 
-# Solution 2
+# Solution 2: Interactive web-app for comparative visual cluster exploration 
+
+This solution extends the given FASTAPI Webproject (server side: python, client slide: javascript with wbgl libraries from google/three.js and VCG Harvard for hardware-accellerated 3D 2D plots).
+
+### Approach
+Focusing on clusterings’ spatial arrangement and overview-detail exploration
+Validated design-decisions on ease of interaction, and shown patterns with respect to data characteristics
+
+### Outcome
+Web app with small-multiple scatterplots to compare clusterings side-by-side
+Synchronized navigation (zooming, panning, selections) for easy comparison
+Scalable and web-based for big data (web-gl)
+
+
+![image](https://user-images.githubusercontent.com/31503434/154733294-93d5e6b6-0628-4a36-80d0-84219aaacf82.png)
+
