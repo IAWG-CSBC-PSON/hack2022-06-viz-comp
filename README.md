@@ -138,7 +138,9 @@ Implemented a silhouette-heatmap for single-cell marker expression ordered by si
 
 # Solution 2: Interactive web-app for comparative visual cluster exploration 
 
-![image](https://user-images.githubusercontent.com/31503434/154734926-62a63a82-0caf-4774-b4f5-cce711240848.png)
+<p align="center">
+<img width="600" alt="Web App" src="https://user-images.githubusercontent.com/31503434/154734926-62a63a82-0caf-4774-b4f5-cce711240848.png">
+</p>
 
 This solution extends the given FASTAPI Webproject (server side: python, client slide: javascript with wbgl libraries from google/three.js and VCG Harvard for hardware-accellerated 3D 2D plots).
 
