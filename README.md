@@ -125,6 +125,14 @@ As a starting point, the project includes a scalable webgl scatterplot. How to c
 
 # Solution 1
 
+Detailed, attractive figures for visual analysis, publications, presentations
+
+Summarized cluster quality and visualized marker distributions
+Implemented a silhouette-heatmap for single-cell marker expression ordered by silhouette values
+Shared a Jupyter notebook for comparison of clustering results
+
+
+
 # Solution 2: Interactive web-app for comparative visual cluster exploration 
 
 ![image](https://user-images.githubusercontent.com/31503434/154733294-93d5e6b6-0628-4a36-80d0-84219aaacf82.png)
